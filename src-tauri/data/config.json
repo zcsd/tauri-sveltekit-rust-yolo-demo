@@ -1,0 +1,5 @@
+{
+    "model_path": "data/best_nano.onnx",
+    "input_size": 640,
+    "class_names": ["0", "1", "2", "3"]
+}
